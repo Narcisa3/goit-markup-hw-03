@@ -36,6 +36,7 @@ body{
 
 .header {
     width: 1600px;
+    height: 80px;
 }
 
 .header .container {
@@ -212,6 +213,7 @@ body{
     font-size: 36px;
     text-align: center;
     color: var(--black);
+    margin-bottom: 40px;
 }
 
 .team__subtitle {
@@ -275,6 +277,7 @@ body{
 
 .footer {
     width: 1600px;
+    height: 251px;
     background-color:var(--dark);
 }
 
